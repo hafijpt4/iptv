@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0,http://10.252.253.254/hls/Gazi-TV.m3u8
+http://10.252.253.254/hls/sonysix.m3u8
+#EXTINF:0,http://10.252.253.254/hls/starsports3.m3u8
+http://10.252.253.254/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:0,http://10.252.253.254/hls/stersports1hd.m3u8
+http://10.252.253.254/hls/starsports2.m3u8
+#EXTINF:0,http://10.252.253.254/hls/sonyten3.m3u8
+http://10.252.253.254/hls/select2.m3u8
+#EXTINF:0,http://10.252.253.254/hls/sonyten2.m3u8
+http://10.252.253.254/hls/sonyten1.m3u8
+#EXTINF:0,http://10.252.253.254/hls/ten.m3u8
+http://10.252.253.254/hls/bein1.m3u8
